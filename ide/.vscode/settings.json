@@ -7,7 +7,7 @@
     }
   },
   "jenkins-runner.hostConfigs": {
-    "pipelines-7080": {
+    "pipelines-8080": {
       "url": "http://localhost:8080",
       "user": "Danilbh",
       "password": "ASDqwe123",
