@@ -10,7 +10,7 @@
     "pipelines-8080": {
       "url": "http://localhost:8080",
       "user": "Danilbh",
-      "password": "Egz836575",
+      "password": "Admin",
       "useCrumbIssuer": true
     }
   }
