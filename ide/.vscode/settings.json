@@ -1,7 +1,7 @@
 {
   "jenkins-runner.jobs": {
     "ide": {
-      "runWith": "pipelines-8080",
+      "runWith": "localhost:8080",
       "name": "ide",
       "isDefault": true
     }
